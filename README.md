@@ -13,7 +13,7 @@ Este projeto consiste em um sistema de informações sobre poluição nas praias
 ### Instruções de Uso
 1. Clone o repositório ou baixe o arquivo do código-fonte.
 2. Certifique-se de ter o Python instalado em sua máquina.
-3. Execute o arquivo `codigo.py`.
+3. Execute o arquivo `cp.py`.
 4. Selecione uma praia a partir do menu suspenso.
 5. As informações sobre a praia selecionada serão exibidas na tela, incluindo um link para visualizá-la no Google Maps.
 6. Clique no botão "Abrir no Google Maps" para abrir o link da localização da praia no navegador padrão.

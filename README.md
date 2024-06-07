@@ -23,7 +23,7 @@ Este projeto consiste em um sistema de informações sobre poluição nas praias
 - Biblioteca Tkinter
 - Biblioteca webbrowser
 
-### Informações Relevantes
+### O projeto
 - O sistema foi desenvolvido como parte de um projeto acadêmico para fornecer informações sobre a poluição das praias e conscientizar a população sobre a importância da preservação do meio ambiente marinho.
 - As informações sobre poluição nas praias são fornecidas com base em um conjunto de dados pré-definido, incluindo o estado de poluição, nível de poluição, causa da poluição, espécies afetadas, status da praia e link para a localização no Google Maps.
 - O código foi organizado de forma a facilitar a compreensão e a manutenção, com comentários explicativos em cada seção.

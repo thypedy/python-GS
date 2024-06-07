@@ -30,7 +30,7 @@ Este projeto consiste em um sistema de informações sobre poluição nas praias
 
 ### Executar o Código
 1. No Visual Studio Code, navegue até a pasta onde o repositório foi clonado.
-2. Abra o arquivo `codigo.py`.
+2. Abra o arquivo `cp.py`.
 3. Certifique-se de ter o interpretador Python configurado no Visual Studio Code.
 4. No menu superior, clique em "Run" e selecione "Start Debugging" (ou use o atalho `F5`).
 5. O código será executado e a interface gráfica será exibida.
